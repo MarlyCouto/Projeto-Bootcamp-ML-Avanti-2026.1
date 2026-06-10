@@ -1,4 +1,4 @@
-# Projeto - Bootcamp Machine Learning.
+# Projeto - RECONHECIMENTO DE RESÍDUOS RECICLÁVEIS COM INTELIGÊNCIA ARTIFICIAL - Bootcamp Machine Learning.
 Repositório criado para o projeto de classificação de imagens, utilizando o dataset "Recyclable and Household Waste Classification". Este projeto foi proposto como desafio para a Equipe 2 da turma de Machine Learning da Escola Atlântico Avanti, edição 2026.1.
 
 ## EQUIPE:
